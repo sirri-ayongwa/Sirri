@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Sirri234
+- 👋 Hi, I’m Sirri Ayongwa, a software engineer
 - 👀 I’m interested in Software development
-- 🌱 I’m currently learning C and C++
+- 🌱 I’m currently learning C, C++, and Python
 - 💞️ I’m looking to collaborate on PROJECTS
 - 📫 How to reach me? Via email: sirribongnwi7@gmail.com
 
